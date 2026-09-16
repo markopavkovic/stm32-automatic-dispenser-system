@@ -2,7 +2,6 @@
 Precision STM32-based automatic fluid dispenser featuring ultrasonic proximity detection, OLED UI, keypad volume control, MOSFET pump actuation, and MQTT cloud telemetry.
 Evo osveženog Markdown koda za README.md sa ubacirom tabelom za video demonstraciju na istom mestu i u istom stilu kao na prošlom projektu.
 
-Markdown
 # STM32 Smart Automatic Fluid Dispenser with IoT Telemetry 🧴📊
 
 An energy-efficient, touchless automatic fluid dispensing system built on the **STM32F103C8T6 (ARM Cortex-M3)** platform. The system enables users to enter exact target fluid volumes via a 4x4 matrix keypad, displays real-time status on an OLED screen, ensures contactless container verification using ultrasonic sensing, and streams real-time operation telemetry to the cloud using MQTT.
